@@ -1,15 +1,3 @@
-# Endpoints
-
-[API](http://udagram-api-dev.eba-dxnbm6mr.us-east-1.elasticbeanstalk.com/)
-
-[Frontend](http://udagram-frontend1212.s3-website-us-east-1.amazonaws.com)
-
-# infrastructure
-
-1. RDS: for database
-1. Elastic Beanstalk: for Backend API
-1. S3 : for hosting frontend
-
 # Pipeline process
 
 1. build
